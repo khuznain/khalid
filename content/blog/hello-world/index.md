@@ -27,7 +27,7 @@ You can also write code blocks here!
 const saltyDuckEgg = "chinese preserved food product"
 ```
 
-| Number | Title                                    | Year |
+<!-- | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
 | 1      | Harry Potter and the Philosopher’s Stone | 2001 |
 | 2      | Harry Potter and the Chamber of Secrets  | 2002 |
@@ -228,4 +228,4 @@ This paragraph has some `code` in it.
 
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+    ![Alt Text](https://placehold.it/200x50 "Image Title") -->
